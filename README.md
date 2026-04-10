@@ -26,12 +26,11 @@ This open version is not an officially supported Google product.
 
 Added fine-tuning example using HuggingFace Transformers + PEFT (LoRA) — see
 [`timesfm-forecasting/examples/finetuning/`](timesfm-forecasting/examples/finetuning/).
-Also added unit tests (`tests/`), fixed per-input ridge regression in XReg to
-prevent data leakage, and incorporated several community fixes.
+Also added unit tests (`tests/`) and incorporated several community fixes.
 
 ## Update - Mar. 19, 2026
 
-Huge shoutout to [@borealBytes](https://github.com/borealBytes) for adding the support for [AGENTS](https://github.com/google-research/timesfm/blob/master/AGENTS.md)! TimesFM [SKILL.md](https://github.com/google-research/timesfm/blob/master/timesfm-forecasting/SKILL.md) is out.
+Huge shoutout to [@borealBytes](https://github.com/borealBytes) for adding the support for [AGENTS](https://github.com/google-research/timesfm/blob/master/AGENTS.md)! TimesFM [SKILL.md](https://github.com/google-research/timesfm/tree/master/timesfm-forecasting) is out.
 
 ## Update - Oct. 29, 2025
 

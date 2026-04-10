@@ -8,3 +8,4 @@ datasets/
 results/
 uv.lock
 development_setup.md
+debug.log
